@@ -7,7 +7,7 @@ import { MenuItem } from '../../interfaces/MenuItem.interface';
   styles: [
     `
     li {
-      cursor:pointer;
+      cursor:pointer; 
     }
     `
   ]
